@@ -1,0 +1,35 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
+			"name": "prueba1",
+			"request": "launch",
+			"mainClass": "prueba1",
+			"projectName": "proyecto_c50710cd"
+		},
+		{
+			"type": "java",
+			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
+			"name": "pruebaBotones",
+			"request": "launch",
+			"mainClass": "pruebaBotones",
+			"projectName": "proyecto_c50710cd"
+		},
+		{
+			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
+			"type": "java",
+			"name": "Launch Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
+			"type": "java",
+			"name": "Launch App",
+			"request": "launch",
+			"mainClass": "App"
+		}
+	]
+}
