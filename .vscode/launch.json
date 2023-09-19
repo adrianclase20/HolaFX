@@ -4,6 +4,14 @@
 		{
 			"type": "java",
 			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
+			"name": "prHostservice",
+			"request": "launch",
+			"mainClass": "prHostservice",
+			"projectName": "HolaFX_25b8d05e"
+		},
+		{
+			"type": "java",
+			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
 			"name": "pruebaBotones",
 			"request": "launch",
 			"mainClass": "pruebaBotones",
