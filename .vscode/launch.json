@@ -4,6 +4,30 @@
 		{
 			"type": "java",
 			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
+			"name": "prMicroHelpApp",
+			"request": "launch",
+			"mainClass": "ud1.prMicroHelpApp",
+			"projectName": "HolaFX_25b8d05e"
+		},
+		{
+			"type": "java",
+			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
+			"name": "venatanaModYNoMod",
+			"request": "launch",
+			"mainClass": "ud1.venatanaModYNoMod",
+			"projectName": "HolaFX_25b8d05e"
+		},
+		{
+			"type": "java",
+			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
+			"name": "prHostservice",
+			"request": "launch",
+			"mainClass": "ud1.prHostservice",
+			"projectName": "HolaFX_25b8d05e"
+		},
+		{
+			"type": "java",
+			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
 			"name": "prHostservice",
 			"request": "launch",
 			"mainClass": "prHostservice",
