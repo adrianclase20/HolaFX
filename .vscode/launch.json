@@ -4,6 +4,30 @@
 		{
 			"type": "java",
 			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
+			"name": "prFlowPaneTest",
+			"request": "launch",
+			"mainClass": "ud1.prFlowPaneTest",
+			"projectName": "HolaFX_25b8d05e"
+		},
+		{
+			"type": "java",
+			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
+			"name": "prWindowEventApp",
+			"request": "launch",
+			"mainClass": "ud1.prWindowEventApp",
+			"projectName": "HolaFX_25b8d05e"
+		},
+		{
+			"type": "java",
+			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
+			"name": "prEventRegistration",
+			"request": "launch",
+			"mainClass": "ud1.prEventRegistration",
+			"projectName": "HolaFX_25b8d05e"
+		},
+		{
+			"type": "java",
+			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
 			"name": "prMicroHelpApp",
 			"request": "launch",
 			"mainClass": "ud1.prMicroHelpApp",
