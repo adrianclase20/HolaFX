@@ -37,8 +37,8 @@ public class prFlowPaneTest extends Application {
                       "-fx-border-color: blue;");
         
         // Creamos una escena y la configuramos en el escenario (stage)
-        Scene scene = new Scene(root);
-        escenario.setScene(scene);
+        Scene escena = new Scene(root);
+        escenario.setScene(escena);
         
         // Establecemos el título de la ventana
         escenario.setTitle("Un FlowPane Horizontal");
