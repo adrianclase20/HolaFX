@@ -4,6 +4,30 @@
 		{
 			"type": "java",
 			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
+			"name": "prNewModalWindow",
+			"request": "launch",
+			"mainClass": "ud1.prNewModalWindow",
+			"projectName": "HolaFX_25b8d05e"
+		},
+		{
+			"type": "java",
+			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
+			"name": "prSaveImage",
+			"request": "launch",
+			"mainClass": "ud1.prSaveImage",
+			"projectName": "HolaFX_25b8d05e"
+		},
+		{
+			"type": "java",
+			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
+			"name": "prTableViewAddDeleteRows",
+			"request": "launch",
+			"mainClass": "ud1.prTableViewAddDeleteRows",
+			"projectName": "HolaFX_25b8d05e"
+		},
+		{
+			"type": "java",
+			"vmArgs": "--module-path \"c:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml",
 			"name": "prFlowPaneAlignment",
 			"request": "launch",
 			"mainClass": "ud1.prFlowPaneAlignment",
